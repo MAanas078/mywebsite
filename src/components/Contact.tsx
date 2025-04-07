@@ -83,7 +83,7 @@ const Contact = () => {
               <div>
                 <h3 className="text-lg font-semibold text-gray-900">LinkedIn</h3>
                 <a
-                  href="https://linkedin.com/in/your-profile"
+                  href="www.linkedin.com/in/mohd-aanas"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 hover:text-indigo-600 hover:underline transition-all duration-300 ease-in-out"
