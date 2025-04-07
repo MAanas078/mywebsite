@@ -88,7 +88,7 @@ const Contact = () => {
                   rel="noopener noreferrer"
                   className="text-gray-600 hover:text-indigo-600 hover:underline transition-all duration-300 ease-in-out"
                 >
-                  linkedin.com/in/your-profile
+                  www.linkedin.com/in/mohd-aanas
                 </a>
               </div>
             </motion.div>
