@@ -100,7 +100,7 @@ const Hero = () => {
             </button>
 
             <a
-              href="/resume.pdf"
+              href="/https://drive.google.com/file/d/1Y9_l3b0IyYyzmD2IZWvPEH1HKxs-VdJx/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-6 py-3 border border-gray-300 text-base font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 transition-colors"
